@@ -1,2 +1,2 @@
 # DSA-
-learning DSA
+code repository for DSA
