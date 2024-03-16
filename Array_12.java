@@ -1,5 +1,6 @@
 import java.util.*;
 public class Array_12 {
+    // to find the element which is larger than all element to it's right
     public static ArrayList<Integer> superiorElements(int[] a, int n) {
         ArrayList<Integer> ans = new ArrayList<>();
         for (int i = 0; i < n; i++) {
