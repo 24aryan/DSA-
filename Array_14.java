@@ -1,6 +1,7 @@
 import java.util.*;
 public class Array_14 {
-
+//    You are given a matrix 'MATRIX' of dimension 'N' x 'M'. Your task is to make all the elements of row 'i' and column 'j' equal to 0 
+//    if any element in the ith row or jth column of the matrix is 0.
     // brute force approach
     static void setrow(ArrayList<ArrayList<Integer>> matrix, Integer n, Integer m,int i){
     for(int j=0;j<n;j++){
